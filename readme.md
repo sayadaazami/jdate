@@ -7,7 +7,7 @@ This package is using [carbon](https://github.com/briannesbitt/carbon) as core f
 ## Installation
 
 ```
-$ composer require p3ym4n/jdate
+$ composer require sayadaazami/jdate
 ```
 
 ### how to use
